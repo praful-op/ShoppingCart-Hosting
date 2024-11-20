@@ -14,5 +14,5 @@ https://shopping-cart-hosting.vercel.app
 ## Screenshots
 
 
-![App Screenshot](https://drive.google.com/file/d/1nmqUaFr_r4UGn-5czl5zJRb4K4sgt4FV/view?usp=drive_link)
+![1](https://github.com/user-attachments/assets/16ec822d-bd47-4025-8731-9ba3ba967cc2)
 
