@@ -1,5 +1,6 @@
 
 # Shopping Cart Application
+This project is a shopping cart application that lets users browse products, add them to a cart, and view their selections and total price in real time.
 
 
 ## Tech Stack
