@@ -2,6 +2,13 @@
 # Shopping Cart Application
 
 
+## Tech Stack
+
+ React, Javascript , Redux , TailwindCSS , HTML.
+
+
+
+
 
 
 ## Demo/link
