@@ -26,22 +26,22 @@ https://shopping-cart-hosting.vercel.app
 ![2](https://github.com/user-attachments/assets/f3e2600e-353f-49e8-b71a-c0bf9e5cda23)
 
 **React** :-
-        1)Single Page Application (SPA)
-        2)Component based Architecture
-        3)Props & State Management
-        4)Hooks
-        5)Conditional Rendering
-        6)Routing
-        7)Event Handling
+-        1)Single Page Application (SPA)
+-        2)Component based Architecture
+-        3)Props & State Management
+-        4)Hooks
+-        5)Conditional Rendering
+-        6)Routing
+-        7)Event Handling
 
 
 **Redux** :-
-        1)Centralized State Management
-        2)Avoiding Prop Drilling
-        3)Ease of Updating State
-        4)Scalability
+-       1)Centralized State Management
+-       2)Avoiding Prop Drilling
+-       3)Ease of Updating State
+-       4)Scalability
 
 **Tailwind CSS** :-
-        1)Styling 
+-       1)Styling 
 
 
